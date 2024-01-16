@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">APImodel</string>
+    <string name="compare">COMPARE</string>
+    <string name="upload_photo">upload photo</string>
+    <string name="name">enter file name</string>
+    <string name="entries_log">Entries LOG</string>
+    <string name="entries_will_appear_here">entries will appear here</string>
+    <string name="automated_actions">automated actions</string>
+    <string name="consumption">CONSUMPTION</string>
+</resources>

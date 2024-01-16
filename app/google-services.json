@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "751902437381",
+    "project_id": "smarthomeauto-15bd2",
+    "storage_bucket": "smarthomeauto-15bd2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751902437381:android:26e5c8db5a7a4e79752c6c",
+        "android_client_info": {
+          "package_name": "com.example.apimodel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlrHBvMGFvTiOBnYmBoKfwxYMRGBLqmKA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

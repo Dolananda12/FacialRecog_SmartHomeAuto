@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Button
+        android:id="@+id/comp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:text="@string/compare" />
+
+    <Button
+        android:id="@+id/uploadPhoto"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/comp"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="25sp"
+        android:text="@string/upload_photo" />
+
+    <EditText
+        android:id="@+id/editext"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/uploadPhoto"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="25sp"
+        android:hint="@string/name"
+        android:textSize="25sp"
+        android:autofillHints="false"
+        android:inputType="textPersonName" />
+    <Button
+        android:id="@+id/logButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/editext"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="25sp"
+        android:text="@string/entries_log" />
+</RelativeLayout>
